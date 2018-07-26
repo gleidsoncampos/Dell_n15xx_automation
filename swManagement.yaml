@@ -1,6 +1,6 @@
 sw_login:
-  user: <usuario>
-  key: <chave>
+  user: <user>
+  key: <key>
   ip: <x.x.x.x>
 
 sw_task:

@@ -1,0 +1,9 @@
+sw_login:
+  user: <usuario>
+  key: <chave>
+  ip: <x.x.x.x>
+
+sw_task:
+    function: tftp_backup
+    filename: <filename>
+    path: <path>
